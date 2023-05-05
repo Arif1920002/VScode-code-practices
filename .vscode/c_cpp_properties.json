@@ -12,7 +12,8 @@
             "compilerArgs": [
                 ""
             ],
-            "mergeConfigurations": false
+            "mergeConfigurations": false,
+            "configurationProvider": "ms-vscode.makefile-tools"
         }
     ],
     "version": 4

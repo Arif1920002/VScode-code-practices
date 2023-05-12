@@ -1,4 +1,4 @@
-/* The distance between Mirpur and Ashulia is input through the keyboard in meters. Write
+/* 6. The distance between Mirpur and Ashulia is input through the keyboard in meters. Write
 a program to convert and print this distance in feet, inches and centimeters.*/
 
 #include <stdio.h>

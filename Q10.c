@@ -1,4 +1,4 @@
-//Using #define to define the value of PI= 3.1426 and calculate the area of a circle. (Take radius of the circle as input).
+// 10. Using #define to define the value of PI= 3.1426 and calculate the area of a circle. (Take radius of the circle as input).
 
 
 #include <stdio.h>

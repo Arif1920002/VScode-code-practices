@@ -1,4 +1,4 @@
-/*Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a
+/* 4. Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a
 program to convert this temperature into Centigrade degrees.*/
 
 //c/5 = (f-32)/9 = (k-274)/5
